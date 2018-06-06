@@ -11,19 +11,22 @@ First Assignment - Basics
 2. Inside the 'Assignment-1/participants' folder, create a new file in your name, for ex : Rahul.txt .
 3. Add the following details about yourself in the file: 
 
-         name: 
-         email:
-         github user name:
-         Was the morning session easy to follow ? :
+    name: 
+    email:
+    github user name:
+    Was the morning session easy to follow ? :
+    Which topics you found difficult (if any) ? :
    
  4. Stage and Commit the changes in local repository.
  5. Push the changes back to the online github repository.
  
  After around 15 mins,
  1. pull the changes in github repository to your local copy.
- 2. Do you see the changes?  If yes, this assignment is complete.
- 3. How many participants have added their files? 44?
+ 2. Use git log to see the commits.
+ 3. Do you see the commits made by your friends?  If yes, this assignment is complete.
+ 4. How many participants have added their files? 44?
  
+
  
 ------------------------------------------
 Second Assignment - Branching and Merging
@@ -47,6 +50,8 @@ Second Assignment - Branching and Merging
 15. Keep your repository tidy! Delete the branch add-your-name now as that it's done: git branch -d add-your-name.
 
 Did you face any conflicts while merging branch with master? Why?
+
+
 
 -------------------------------
 Third Assignment - Explore Git
