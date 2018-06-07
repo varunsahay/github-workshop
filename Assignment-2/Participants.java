@@ -10,15 +10,12 @@ class Participants
         students[0].likegit = true;
     
         //Fill in your details in the same format as given above
+        students[0].name = "Varun Sahay";
+	students[0].rollnum = "CE17B020";
+	students[0].likegit = true;
         
-        
-        
-        
-        
-        
-        
-        
-        
+
+
         // DON'T CHANGE THE BELOW CODE -------------------------------------------
         int i=0;
     
