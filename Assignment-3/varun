@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------------------------
+Student         GIT Command          Example                        What does it do?
+-------------------------------------------------------------------------------------------------
+Sample          git log -n           git log --stat -2              Displays some abbreviated stats for last two commits.
+Varun Sahay	git merge	     git merge varun	            merges branches in git
