@@ -26,7 +26,6 @@ First Assignment - Basics
  3. Do you see the commits made by your friends?  If yes, this assignment is complete.
  4. How many participants have added their files? 44?
  
-
  
 ------------------------------------------
 Second Assignment - Branching and Merging
